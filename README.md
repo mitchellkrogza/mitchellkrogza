@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I create projects for a cleaner and safer internet.
+### Help Support Me at https://ko-fi.com/mitchellkrog
+
 <!--
 **mitchellkrogza/mitchellkrogza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

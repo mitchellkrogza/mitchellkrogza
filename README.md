@@ -3,6 +3,7 @@
 ## I create projects for a cleaner and safer internet.
 ## Specialist in Nginx and Linux Server Setups (all Distro's)
 ### Help Support Me at https://www.buymeacoffee.com/mitchellkrog
+### Enquire about sponsoring a project - mitchellkrog@gmail.com
 
 - I specialize in all Distributions of Linux, Linux Security, Server Setups, Lockdowns, Web Servers (Nginx, Apache and OpenLitespeed)
 - I am for hire on an hourly / project basis to help you setup your server and do any customizations
